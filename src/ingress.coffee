@@ -18,7 +18,7 @@
 # Author:
 #   therealklanni
 
-# Quick refrence for what badges are need at what level
+# Quick reference for what badges are need at what level
 # LVL   Badges              AP          Max xm
 # 9   4 Silver, 1 Gold,     2400000,    10900
 # 10  5 Silver, 2 Gold,     4000000,    11700
@@ -34,68 +34,68 @@ levels =
     ap: 0
     xm: 3000
   2:
-    ap: 2500
+    ap: 2,500
     xm: 4000
   3:
-    ap: 20000
+    ap: 20,000
     xm: 5000
   4:
-    ap: 70000
+    ap: 70,000
     xm: 6000
   5:
-    ap: 150000
+    ap: 150,000
     xm: 7000
   6:
-    ap: 300000
+    ap: 300,000
     xm: 8000
   7:
-    ap: 600000
+    ap: 600,000
     xm: 9000
   8:
-    ap: 1200000
+    ap: 1,200,000
     xm: 10000
   9:
-    ap: 2400000
+    ap: 2,400,000
     xm: 10900
     badges:
       silver: 4
       gold: 1
   10:
-    ap: 4000000
+    ap: 4,000,000
     xm: 11700
     badges:
       silver: 5
       gold: 2
   11:
-    ap: 6000000
+    ap: 6,000,000
     xm: 12400
     badges:
       silver: 6
       gold: 4
   12:
-    ap: 8400000
+    ap: 8,400,000
     xm: 13000
     badges:
       silver: 7
       gold: 6
   13:
-    ap: 12000000
+    ap: 12,000,000
     xm: 13500
     badges:
       gold: 7
       platinum: 1
   14:
-    ap: 17000000
+    ap: 17,000,000
     xm: 13900
     badges:
       platinum: 2
   15:
-    ap: 24000000
+    ap: 24,000,000
     xm: 14200
     badges:
       platinum: 3
   16:
-    ap: 40000000
+    ap: 40,000,000
     xm: 14400
     badges:
       platinum: 4
